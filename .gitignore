@@ -152,11 +152,11 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.pdf
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# *.pdf
 temp/
 output/
 data/ 
