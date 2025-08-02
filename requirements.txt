@@ -1,0 +1,25 @@
+# Зависимости для системы автоматических отчетов в Telegram
+
+# Airflow
+apache-airflow>=2.7.0
+
+# Обработка данных
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Визуализация
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Подключение к базам данных
+pandahouse>=0.2.0
+clickhouse-connect>=0.6.0
+
+# Telegram Bot API
+python-telegram-bot>=20.0
+
+# HTTP запросы
+requests>=2.31.0
+
+# Работа с датами
+python-dateutil>=2.8.0 
